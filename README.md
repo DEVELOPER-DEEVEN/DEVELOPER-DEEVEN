@@ -122,8 +122,8 @@ My research is deeply rooted in the intersection of **optimization**, **signal p
 
 ### 📧 Get in Touch:
 - **GitHub**: [@DEVELOPER-DEEVEN](https://github.com/DEVELOPER-DEEVEN)
-- **Email**: [Contact me](mailto:your.email@example.com) *(Replace with your actual email)*
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/your-profile) *(Add your profile)*
+- **Email**: [Contact me](mailto:DEEVENSERU11@GMAIL.COM) *(Replace with your actual email)*
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/deevenseru/) *(Add your profile)*
 
 ---
 
