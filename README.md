@@ -5,7 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=DEVELOPER-DEEVEN&color=blueviolet&style=flat-square)](https://github.com/DEVELOPER-DEEVEN)
 [![GitHub followers](https://img.shields.io/github/followers/DEVELOPER-DEEVEN?label=Followers&style=flat-square&color=blue)](https://github.com/DEVELOPER-DEEVEN?tab=followers)
 ![Top Languages](https://img.shields.io/badge/Top%20Languages-Python%20%7C%20C%2B%2B%20%7C%20CUDA-brightgreen?style=flat-square)
-[![Open to Collaboration](https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square&logo=handshake&logoColor=white)](mailto:contact@example.com)
+[![Open to Collaboration](https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat-square&logo=handshake&logoColor=white)](mailto:DEEVENSERU11@GMAIL.COM)
 
 </div>
 
