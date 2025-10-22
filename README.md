@@ -12,9 +12,7 @@
 
 ## 🎓 About Me
 
-I'm an **AI/ML & Computer Vision Researcher** and **Google Remote Engineer** with specialized expertise in **scientific computing, data science, and signal processing**—core competencies essential for high-energy physics research environments like **CERN** and **EPFL**. 
-
-My research focuses on developing scalable, reproducible computational solutions for **large-scale data analysis, detector signal processing, and distributed scientific computing**. With hands-on experience in **parallel computing (MPI), cloud-based data pipelines (GCP), and real-time signal analysis**, I bring both the theoretical rigor and practical engineering skills needed for cutting-edge particle physics experiments.
+I'm an **AI/ML & Computer Vision Researcher** and **Google Remote Engineer** with specialized expertise in **scientific computing, data science, and signal processing**—core competencies essential for high-energy physics research environments like **CERN** and **EPFL**. My research focuses on developing scalable, reproducible computational solutions for **large-scale data analysis, detector signal processing, and distributed scientific computing**. With hands-on experience in **parallel computing (MPI), cloud-based data pipelines (GCP), and real-time signal analysis**, I bring both the theoretical rigor and practical engineering skills needed for cutting-edge particle physics experiments.
 
 My work bridges **NeurIPS-level methodologies** with practical implementations in distributed systems, signal processing, and cloud infrastructure—directly applicable to CERN's data-intensive computational challenges.
 
@@ -23,12 +21,14 @@ My work bridges **NeurIPS-level methodologies** with practical implementations i
 ## 🔬 CERN Research Alignment & Scientific Computing Expertise
 
 ### Particle Physics & Scientific Computing Interests
+
 - **🎯 Detector Signal Processing**: Experience with 3D signal analytics, real-time data processing, and parallel optimization for high-throughput detector systems
 - **📊 Large-Scale Data Analysis**: Proven track record handling massive datasets through distributed computing frameworks (MPI) and cloud pipelines
 - **⚛️ Particle Physics Applications**: Strong interest in applying ML/CV techniques to particle detection, track reconstruction, and event classification
 - **🔧 Scientific Computing**: Expertise in Python, C/C++, CUDA for high-performance scientific applications—languages fundamental to CERN's software ecosystem (ROOT, Geant4)
 
 ### CERN-Relevant Technical Capabilities
+
 - **Distributed Systems & Parallel Computing**: MPI framework development with 10x performance scaling for real-time analytics
 - **Cloud Infrastructure**: Production-grade deployments on Google Cloud Platform for large-scale data processing
 - **Reproducible Science**: Version-controlled, well-documented codebases following open-source best practices
@@ -45,103 +45,119 @@ My work bridges **NeurIPS-level methodologies** with practical implementations i
 - **⚛️ Scientific Computing Expertise**: Proficient in Python, C/C++, and parallel computing frameworks essential for high-energy physics experiments
 - **📊 Big Data & Reproducible Science**: Proven ability to work with large-scale datasets using distributed computing (MPI), cloud pipelines (GCP), and version-controlled workflows
 - **🌐 Collaborative Open Source**: Active contributor to research codebases with clean, well-documented, publication-quality implementations
-- **🏆 GSoC & Remote Research Experience**: Google remote engineering background demonstrates ability to contribute effectively to international, distributed research teams
-- **🎓 EPFL Lab Alignment**: Research focus intersects with LIONS (optimization), LTS4 (signal processing), and IDIAP (multimodal CV) methodologies
-- **⚡ Rapid Prototyping**: Proven track record translating research concepts into functional systems—critical for iterative experimental physics workflows
-- **☁️ Scalable Infrastructure**: Experience designing cloud-based, distributed computing solutions for handling petabyte-scale scientific data
-- **🎯 Interdisciplinary Research Mindset**: MAANG-level problem-solving applied to scientific challenges—bridging industry best practices with academic rigor
-- **🔄 Cross-Domain Adaptability**: From graph algorithms to 3D signal processing to generative AI, demonstrating versatility across computational physics domains
 
 ---
 
-## 🏆 Featured Achievements
+## 🚀 Highlighted Projects
 
-### Academic Excellence
-- 🥇 **Top Performer** in Advanced ML and Computer Vision courses
-- 📚 **Research Publications**: Methods aligned with top-tier conference standards (NeurIPS, CVPR)
-- 🎓 **Project Showcase**: Demonstrated expertise through high-impact academic deliverables applicable to scientific computing
+### 1️⃣ [**MPI Parallel Computing Framework**](https://github.com/DEVELOPER-DEEVEN/parallel-coputing)
 
-### Hackathons & Competitions
-- 🏅 **AI for Social Good**: Developed cop-watch-india-ai for transparency and accountability
-- 💡 **Innovation Awards**: Recognition for novel approaches in CV pipeline optimization
-- ⚡ **Rapid Development**: Built production-ready prototypes under tight deadlines—essential for experimental physics timelines
-
-### Industry & Open Source Recognition
-- 🌐 **Google Remote Engineer**: Contributing to cutting-edge cloud ML infrastructure—experience directly applicable to CERN's distributed computing model
-- 🔧 **Open Source Contributions**: Active contributor to ML/CV research community with reproducible, well-documented code
-- 📊 **Impact Metrics**: Projects serving real-world applications with measurable outcomes and public accessibility
-
----
-
-## 🛠️ Key Skills & Technologies
-
-### **Core Languages & Scientific Computing Stack:**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Expert-level Python** for scientific computing, data analysis, and ML
-- ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) **C/C++** for high-performance computing and ROOT/Geant4 compatibility
-- ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) **CUDA** for GPU-accelerated scientific computing
-- ![MPI](https://img.shields.io/badge/MPI-0055A4?style=flat-square&logo=openmpi&logoColor=white) **Parallel Computing** with MPI for distributed scientific workloads
-
-### **Machine Learning & Data Science:**
-- ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) Deep Learning, Computer Vision, Signal Processing
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) Modern ML frameworks
-- **Data Analysis**: NumPy, SciPy, Pandas for large-scale scientific data processing
-- **Visualization**: Matplotlib, ROOT (learning)—essential for particle physics analysis
-
-### **Cloud & Infrastructure:**
-- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) **GCP** for scalable ML/data pipelines
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) Containerized scientific workflows
-- **Distributed Systems**: Experience with cluster computing and multi-node data processing
-
-### **Research & Collaboration:**
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Version control for reproducible research
-- **Jupyter Notebooks**: Interactive analysis and documentation
-- **Open Source**: Collaborative development following scientific software best practices
-
----
-
-## 🚀 Featured Projects
-
-### 🏗️ [**Concrete Crack Detection**](https://github.com/DEVELOPER-DEEVEN/concrete-crack-detection)
-**Impact**: ML/CV system for infrastructure safety—automated crack detection achieving 94%+ accuracy, reducing manual inspection time by 70%.
-- Deep learning model for real-time classification with signal processing techniques
-- Computer vision pipeline deployed for monitoring—analogous to detector event classification
-- Demonstrates ability to build production-ready systems for real-world data
-- **CERN Relevance**: Pattern recognition in noisy visual data, similar to track detection in detector images
-
-### 📊 [**Random Graph Generation & Analysis**](https://github.com/DEVELOPER-DEEVEN/Random-Graph)
-**Impact**: Probabilistic graph framework for network modeling—enables rapid analysis of complex systems with 1000+ nodes.
-- Advanced graph algorithms for stochastic network generation
-- Optimization techniques for large-scale graph problems
-- **CERN Relevance**: Graph-based analysis applicable to particle interaction networks and detector topology optimization
-
-### ⚡ [**MPI Parallel Computing Framework**](https://github.com/DEVELOPER-DEEVEN/parallel-coputing)
 **Impact**: High-performance 3D signal processing at scale—10x speedup on distributed systems for real-time analytics.
-- Distributed computing architecture using MPI standard
-- 3D signal analytics with parallel optimization
-- Scalable to multi-node clusters for large datasets
-- **CERN Relevance**: Direct application to distributed event reconstruction and parallel simulation workflows (similar to CERN's Grid computing)
 
-### 🎭 [**Generative AI Pose Estimator**](https://github.com/DEVELOPER-DEEVEN/gen-ai-pose-generator)
+**Technical Significance**: Implements distributed computing architecture using MPI standard, enabling 3D signal analytics with parallel optimization. Scalable to multi-node clusters for large datasets.
+
+**CERN/Research Relevance**: Direct application to distributed event reconstruction and parallel simulation workflows similar to CERN's Grid computing infrastructure. Critical for handling petabyte-scale collision data from LHC experiments.
+
+---
+
+### 2️⃣ [**Chaotic Systems & Nonlinear Dynamics Simulations**](https://github.com/DEVELOPER-DEEVEN/chaotic-simulations)
+
+**Impact**: Advanced numerical simulations of complex dynamical systems—rigorous computational physics for understanding nonlinear phenomena.
+
+**Technical Significance**: Implements state-of-the-art ODE solvers and phase space analysis for studying chaotic attractors, bifurcation diagrams, and sensitivity to initial conditions. Leverages NumPy/SciPy for high-precision scientific computing.
+
+**CERN/Research Relevance**: Fundamental to beam dynamics modeling, accelerator physics simulations, and understanding collective effects in particle beams. Directly applicable to LHC beam stability analysis and nonlinear resonance studies.
+
+---
+
+### 3️⃣ [**Concrete Crack Detection Using Deep Learning**](https://github.com/DEVELOPER-DEEVEN/concrete-crack-detection)
+
+**Impact**: Computer vision for structural health monitoring—automated defect detection to improve infrastructure safety and maintenance efficiency.
+
+**Technical Significance**: End-to-end deep learning pipeline with custom CNN architectures for binary classification of structural defects. Demonstrates expertise in transfer learning, data augmentation, and model optimization for real-world deployment.
+
+**CERN/Research Relevance**: Image analysis techniques transferable to particle detector quality control, accelerator infrastructure monitoring, and automated inspection of experimental apparatus. Pattern recognition methods applicable to calorimeter cell analysis.
+
+---
+
+### 4️⃣ [**Random Graph Generation & Analysis**](https://github.com/DEVELOPER-DEEVEN/Random-Graph)
+
+**Impact**: Graph-theoretic computational framework for network science—statistical analysis and visualization of complex systems.
+
+**Technical Significance**: Implements multiple random graph models (Erdős-Rényi, Barabási-Albert, Watts-Strogatz) with comprehensive metrics (clustering coefficient, degree distribution, path length). Demonstrates understanding of algorithmic complexity and statistical mechanics.
+
+**CERN/Research Relevance**: Network analysis essential for understanding particle interaction topologies, collision event graphs, and data center network optimization. Graph algorithms critical for track reconstruction and vertex finding in high-energy physics detectors.
+
+---
+
+### 5️⃣ [**Generative AI Pose Estimation**](https://github.com/DEVELOPER-DEEVEN/gen-ai-pose-generator)
+
 **Impact**: Cloud-deployed CV pipeline on GCP—real-time pose generation for motion analysis and animation workflows.
-- Generative AI for spatial pattern estimation
-- Optimized computer vision pipeline on Google Cloud Platform
-- Sub-second inference for interactive applications
-- **CERN Relevance**: Real-time processing pipelines and cloud infrastructure for large-scale experiments
 
-### 👮 [**CopWatch India AI**](https://github.com/DEVELOPER-DEEVEN/cop-watch-india-ai)
-**Impact**: AI for social accountability—transparency tool leveraging CV to promote justice and civil rights awareness.
-- Computer vision for accountability and transparency
-- Open-source development for social good
-- **CERN Relevance**: Demonstrates commitment to open science, transparency, and collaborative research values central to CERN's mission
+**Technical Significance**: Generative AI for spatial pattern estimation with optimized computer vision pipeline on Google Cloud Platform. Achieves sub-second inference for interactive applications.
+
+**CERN/Research Relevance**: Real-time processing pipelines and cloud infrastructure for large-scale experiments. Pattern recognition techniques applicable to particle trajectory reconstruction and detector geometry optimization.
+
+---
+
+### 6️⃣ [**Reverse RAG: Inverted Retrieval-Augmented Generation**](https://github.com/DEVELOPER-DEEVEN/Reverse-RAG)
+
+**Impact**: Novel information retrieval architecture—inverted RAG methodology for enhanced knowledge extraction and query optimization.
+
+**Technical Significance**: Implements reverse retrieval mechanisms with vector embeddings, semantic search, and context-aware generation. Demonstrates advanced NLP and information retrieval expertise.
+
+**CERN/Research Relevance**: Critical for scientific literature mining, accelerator operation documentation search, and knowledge management across large physics collaborations. Applicable to parsing millions of physics papers for meta-analysis.
+
+---
+
+### 7️⃣ [**Patent Search Engine with Semantic Analysis**](https://github.com/DEVELOPER-DEEVEN/patent-search-engine)
+
+**Impact**: Intelligent patent discovery system—semantic search over technical documents for innovation research and IP analysis.
+
+**Technical Significance**: Full-stack implementation with NLP-powered semantic search, relevance ranking, and document vectorization. Demonstrates ability to handle unstructured technical text at scale.
+
+**CERN/Research Relevance**: Technology transfer and innovation tracking for CERN's numerous patents. Framework adaptable for searching physics literature, technical notes, and internal documentation across LHC collaborations.
+
+---
+
+### 8️⃣ [**Retail Intelligence Engine with NLQ**](https://github.com/DEVELOPER-DEEVEN/NLQ-RETAIL-AGENT)
+
+**Impact**: Natural language query system for business analytics—democratizing data access through conversational AI.
+
+**Technical Significance**: Implements natural language to SQL translation with multi-agent architecture, semantic parsing, and context management. Production-ready cloud deployment with monitoring and scaling.
+
+**CERN/Research Relevance**: NLQ interface applicable to CERN's vast datasets—enabling physicists to query collision data, detector configurations, and simulation results using natural language. Reduces barrier to data exploration for non-expert collaborators.
+
+---
+
+### 9️⃣ [**Gemini LLM Fine-Tuning & Evaluation Framework**](https://github.com/DEVELOPER-DEEVEN/gemini-fine-tuning-and-evaluation)
+
+**Impact**: Comprehensive LLM fine-tuning pipeline—systematic evaluation and optimization of large language models for domain-specific tasks.
+
+**Technical Significance**: End-to-end framework for model fine-tuning, hyperparameter optimization, and rigorous evaluation metrics. Implements distributed training and efficient inference strategies.
+
+**CERN/Research Relevance**: Fine-tuning foundation models on physics literature for automated paper summarization, code generation for ROOT/Geant4, and collaborative research assistance. LLM applications in analyzing unstructured experimental data and log files.
+
+---
+
+### 🔟 [**CopWatch India AI**](https://github.com/DEVELOPER-DEEVEN/cop-watch-india-ai)
+
+**Impact**: AI for social accountability—transparency tool leveraging CV to promote justice and civil rights awareness in India.
+
+**Technical Significance**: Computer vision pipeline for video analysis, incident detection, and automated reporting. Open-source development with focus on ethical AI and transparency.
+
+**CERN/Research Relevance**: Demonstrates commitment to open science, transparency, and using technology for social good—values central to CERN's mission of advancing knowledge for the benefit of humanity. Shows ethical considerations in AI deployment.
 
 ---
 
 ## 🔬 Research Focus
 
 ### Primary Research Interests (CERN & EPFL Aligned)
+
 My research is deeply rooted in the intersection of **optimization**, **signal processing**, **data science**, and **applied computer vision**—with special emphasis on applications to **particle physics, detector systems, and scientific computing**:
 
 #### Particle Physics & CERN-Specific Interests:
+
 - **Detector Signal Processing**: Real-time signal filtering, noise reduction, and feature extraction from high-frequency detector data
 - **Large-Scale Data Analysis**: Handling petabyte-scale datasets from particle collision experiments using distributed computing
 - **Event Reconstruction & Classification**: Applying ML/CV techniques to particle track reconstruction and physics event identification
@@ -149,6 +165,7 @@ My research is deeply rooted in the intersection of **optimization**, **signal p
 - **Reproducible Science**: Version-controlled, containerized workflows for collaborative, transparent research
 
 #### Core Technical Research Areas:
+
 - **Optimization Methods**: Advanced optimization techniques for ML/CV problems, inspired by research from **LIONS** (Laboratory for Information and Optimization Systems)
 - **Signal Processing**: Cutting-edge signal processing methodologies aligned with **LTS4** (Signal Processing Laboratory) research directions—directly applicable to detector signal analysis
 - **Applied Computer Vision**: Practical CV applications building on **IDIAP** Research Institute's expertise in multimodal processing
@@ -161,6 +178,7 @@ My research is deeply rooted in the intersection of **optimization**, **signal p
 **I'm actively seeking research collaboration opportunities, particularly with CERN, EPFL labs (LIONS, LTS4, IDIAP), and particle physics research groups.**
 
 ### 🤝 Open to:
+
 - **CERN Summer Student, Technical Student, or Doctoral Student positions**
 - Research internships in particle physics, detector R&D, and scientific computing
 - Collaborative projects in ML/CV for high-energy physics
@@ -169,6 +187,7 @@ My research is deeply rooted in the intersection of **optimization**, **signal p
 - **Contributing to LHC experiments (ATLAS, CMS, ALICE, LHCb) computing infrastructure**
 
 ### 📧 Get in Touch:
+
 - **GitHub**: [@DEVELOPER-DEEVEN](https://github.com/DEVELOPER-DEEVEN)
 - **Email**: [Contact me](mailto:DEEVENSERU11@GMAIL.COM)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/deevenseru/)
