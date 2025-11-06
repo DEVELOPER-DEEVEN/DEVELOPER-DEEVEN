@@ -12,7 +12,7 @@
 
 ## 🎓 About Me
 
-I'm an **AI/ML & Computer Vision Researcher** and **Google Remote Engineer** with specialized expertise in **scientific computing, data science, and signal processing**—core competencies essential for high-energy physics research environments like **CERN** and **EPFL**. My research focuses on developing scalable, reproducible computational solutions for **large-scale data analysis, detector signal processing, and distributed scientific computing**. With hands-on experience in **parallel computing (MPI), cloud-based data pipelines (GCP), and real-time signal analysis**, I bring both the theoretical rigor and practical engineering skills needed for cutting-edge particle physics experiments.
+I'm an **AI/ML & Computer Vision Researcher**  with specialized expertise in **scientific computing, data science, and signal processing**—core competencies essential for high-energy physics research environments like **CERN** and **EPFL**. My research focuses on developing scalable, reproducible computational solutions for **large-scale data analysis, detector signal processing, and distributed scientific computing**. With hands-on experience in **parallel computing (MPI), cloud-based data pipelines (GCP), and real-time signal analysis**, I bring both the theoretical rigor and practical engineering skills needed for cutting-edge particle physics experiments.
 
 My work bridges **NeurIPS-level methodologies** with practical implementations in distributed systems, signal processing, and cloud infrastructure—directly applicable to CERN's data-intensive computational challenges.
 
