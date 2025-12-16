@@ -1,4 +1,4 @@
-# 👋 Hi, I'm DEVELOPER-DEEVEN
+# Hello, I'm DEVELOPER-DEEVEN
 
 <div align="center">
 
