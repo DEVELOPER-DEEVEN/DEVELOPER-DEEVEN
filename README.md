@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently A Bachelors Student fro Indian Institute of Technology Madras 
 
-- 🕸 Data Science excites me. Isn't it amazing how **COMLELX DECISSIONS** are made.
+- 🕸 Data Science excites me. Isn't it amazing how **COMPELX DECISSIONS** are made.
 
 - 📫 How to reach me **deevenseru11@gmail.com**
 
@@ -25,13 +25,13 @@
 </br>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/rahul-yadav-018608222/" target="blank">
+<a href="https://www.linkedin.com/in/deevenseru/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
-<a href="https://instagram.com/rahul_pinto__" target="blank">
+<a href="https://www.instagram.com/soft_selene_?igsh=c3ozcDJzcXM4cTQ3" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
-<a href="https://leetcode.com/rahul_pinto/" target="blank">
+<a href="https://leetcode.com/u/deeven_seru/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
 </a>
 </br>
