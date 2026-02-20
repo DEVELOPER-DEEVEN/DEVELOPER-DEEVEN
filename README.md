@@ -3,7 +3,7 @@
 <img align="right" alt="Developer" width="300" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=developer-deeven&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=deeven-seru&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 - 🌱 I'm currently Pursuing my bachelors in **Data Science** at Indian Institute Of Technology Madras
