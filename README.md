@@ -38,5 +38,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deeven-seru-/deeven-seru/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deeven-seru/deeven-seru/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/developer-deeven/deeven-seru/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/deeven-seru/deeven-seru/output/github-snake.svg" />
 </picture>
